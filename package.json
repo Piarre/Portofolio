@@ -1,0 +1,50 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "prettier": "prettier --write .",
+    "lint": "next lint"
+  },
+  "author": "Piarre",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@emotion/styled": "^11.10.0",
+    "@chakra-ui/icons": "^2.0.8",
+    "@chakra-ui/react": "^2.2.8",
+    "@emotion/react": "^11.10.0",
+    "framer-motion": "^7.2.0",
+    "react-icons": "^4.4.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.143.0",
+    "react": "^18.2.0",
+    "next": "^12.2.5"
+  },
+  "devDependencies": {
+    "eslint-config-next": "12.3.1",
+    "@types/react-dom": "18.0.6",
+    "@types/react": "18.0.21",
+    "@types/node": "18.7.23",
+    "typescript": "4.8.4",
+    "prettier": "^2.7.1",
+    "eslint": "8.24.0",
+    "sass": "^1.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piarre/Portofolio.git"
+  },
+  "keywords": [
+    "React",
+    "NextJS"
+  ],
+  "bugs": {
+    "url": "https://github.com/Piarre/Portofolio/issues"
+  },
+  "homepage": "https://github.com/Piarre/Portofolio#readme"
+}
