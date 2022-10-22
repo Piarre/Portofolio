@@ -103,13 +103,13 @@ const Home = () => (
           I&apos;ve never had a limit with Docker but I&apos;m not going to not
           expand on Docker there are so many things to say that good... */}
         </Paragraph>
-        <Box alignContent="center" my={4}  textAlign="center">
+        {/* <Box alignContent="center" my={4}  textAlign="center">
           <NextLink href="/projects" passHref scroll={false}>
             <Button rightIcon={<ChevronRightIcon />} colorScheme="orange">
               My portfolio
             </Button>
           </NextLink>
-        </Box>
+        </Box>  */}
       </Section>
 
       <Section>
